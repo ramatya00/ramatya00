@@ -1,14 +1,14 @@
-# Hi, I'm Ramatya 👋
+# Hi, I'm Ramatya
 
 Full-Stack Developer | Next.js & React Specialist | Building AI-Powered Web Applications
 
-## 🚀 About Me
-- 🔭 Currently building AI-powered web applications
-- 🌱 Deepening my knowledge of system design and scalability
-- 💼 Open to remote opportunities
-- ⚡ Fun fact: I love building things that feel magical to use
+## About Me
+- Currently building AI-powered web applications
+- Deepening my knowledge of system design and scalability
+- Open to remote opportunities
+- Fun fact: I love building things that feel magical to use
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui  
 **Backend:** Next.js API Routes, tRPC, Prisma ORM, Node.js  
@@ -16,7 +16,7 @@ Full-Stack Developer | Next.js & React Specialist | Building AI-Powered Web Appl
 **AI/ML:** OpenAI, Gemini, Inngest  
 **Tools:** Clerk, Auth.js, Stripe, Midtrans, Vercel, Git  
 
-## 📊 Featured Projects
+## Featured Projects
 
 ### Genie - AI Website Builder
 AI-powered website builder with GPT-4 integration and E2B sandbox execution
@@ -29,12 +29,12 @@ AI-powered image generation platform with Stripe integration
 - Next.js, Gemini 2.0, Stripe billing
 - [Live Demo](https://imagic-eight.vercel.app) | [Source Code](https://github.com/ramatya00/imagic)
 
-### [Room Booking Platform](link)
+### Room Booking Platform
 Full-stack booking system with authentication and PostgreSQL
 - Next.js, Auth.js, Prisma ORM, PostgreSQL, Midtrans billing
 - [Live Demo](https://booking-hotel-alpha.vercel.app) | [Source Code](https://github.com/ramatya00/hotel-booking)
 
-## 📫 Let's Connect
+## Let's Connect
 - Email: ramatya34@gmail.com
 - Portfolio: https://www.ramatya.com
 - LinkedIn: https://www.linkedin.com/in/ramatya
