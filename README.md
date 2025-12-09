@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ramatya 👋
 
-<!--
-**ramatya00/ramatya00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer | Next.js & React Specialist | Building AI-Powered Web Applications
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 Currently building AI-powered web applications
+- 🌱 Deepening my knowledge of system design and scalability
+- 💼 Open to remote opportunities
+- ⚡ Fun fact: I love building things that feel magical to use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Frontend:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui  
+**Backend:** Next.js API Routes, tRPC, Prisma ORM, Node.js  
+**Database:** PostgreSQL, Vercel Postgres  
+**AI/ML:** OpenAI, Gemini, Inngest  
+**Tools:** Clerk, Auth.js, Stripe, Midtrans, Vercel, Git  
+
+## 📫 Let's Connect
+- Email: ramatya34@gmail.com
+- Portfolio: https://www.ramatya.com
+- LinkedIn: https://www.linkedin.com/in/ramatya
